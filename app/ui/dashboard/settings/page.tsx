@@ -1,4 +1,4 @@
-import Languages from "./components/languages"
+
 import User from "./components/user"
 
 export default async function Settings() {
@@ -8,9 +8,7 @@ export default async function Settings() {
             <div>
                 <User />
             </div>
-            <div>
-                <Languages />
-            </div>
+
             <div>
                 <p>Hello</p>
             </div>
